@@ -1,2 +1,2 @@
 # myFirstConsole
-Step-step in c#
+Step-by-step process in c#
